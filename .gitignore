@@ -1,0 +1,5 @@
+# Ignore sensitive API keys in
+config.js
+
+# Ignore node modules
+node_modules/
