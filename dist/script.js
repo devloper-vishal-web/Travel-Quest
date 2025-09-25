@@ -1,5 +1,5 @@
-const API_KEY = API_KEYS.UNSPLASH;
-const WEATHER_KEY = API_KEYS.WEATHER;
+const API_KEY = window.API_KEYS.UNSPLASH;
+const WEATHER_KEY = window.API_KEYS.WEATHER;
 
 const menuBtn = document.getElementById('menu-btn');
 const menu = document.getElementById('menu');  
